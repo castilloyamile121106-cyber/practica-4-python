@@ -1,0 +1,8 @@
+# Ignorar archivos generados
+resultados_generador.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
